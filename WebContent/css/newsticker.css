@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+
+}
+#listticker{
+	height:340px;
+	width:200px;
+	overflow:hidden;
+	border:solid 1px #DEDEDE;
+	padding:6px 10px 14px 10px;
+	float:right;
+}
+#listticker li{
+	border:0; margin:0; padding:0; list-style:none;
+}
+
+#listticker li{
+height:100px;
+padding:10px;
+list-style:none;
+}
+#listticker a{
+	color:#000000;
+	margin-bottom:
+}
+#listticker .news-title{
+	display:block;
+	font-weight:bold;
+	margin-bottom:4px;
+	font-size:11px;
+}
+#listticker .news-text{
+	display:block;
+	font-size:11px;
+	color:#666666;
+}
+#listticker img{
+	float:left;
+	margin-right:14px;
+	padding:4px;
+	border:solid 1px #DEDEDE;
+}

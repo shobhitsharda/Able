@@ -1,0 +1,24 @@
+@charset "utf-8";
+/* CSS Document */
+
+		.stepcarousel{
+		margin-left:150px;
+		position: relative;
+		border: 10px solid #FFFFFF;
+		overflow: scroll;
+		width: 350px;
+		height: 480px;
+		}
+		
+		.stepcarousel .belt{
+		position: absolute;
+		left: 0;
+		top: 0;
+		}
+		
+		.stepcarousel .panel{
+		float: left;
+		overflow: hidden;
+		margin: 10px;
+		width: 350px;
+		}
